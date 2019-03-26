@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI Elements
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e83efd9202eb36443bb148b3281e5bd4, type: 3}
+    totalSpriteSurfaceArea: 139266
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 71a71b91399427d479b3fe5b1116d54e, type: 3}
+  - {fileID: 21300000, guid: fd5795637f2cc8746b314a632380dd72, type: 3}
+  - {fileID: 21300000, guid: abae64c9ffbb6a64b93f43541e2479c5, type: 3}
+  - {fileID: 21300000, guid: 2b2777bc653a7b94f8b0bffb77a42dd5, type: 3}
+  - {fileID: 21300000, guid: 8c2dac6dd0da4bc4da6aa609c1b171f8, type: 3}
+  - {fileID: 21300000, guid: fcb6b76f91441c143ad2102697525b08, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - donut slider
+  - weapon bag icon
+  - fetuses bag icon
+  - ui panel
+  - slider area
+  - inventory item image
+  m_Tag: UI Elements
+  m_IsVariant: 0

@@ -1,0 +1,65 @@
+﻿[
+	{
+		"id": 0,
+		"type": "seed",
+		"title": "Семена картофеля",
+		"price": 6,
+		"stats": {
+			"power": 0,
+			"stamina": 0,
+			"defence": 0,
+			"food": 1
+		},
+		"description": "Проросший картофель. Можно посадить, а через некоторое время собрать",
+		"i_string": "potato seed",
+		"stack": true
+	},
+
+	{
+		"id": 1,
+		"type": "seed",
+		"title": "Плод картофеля",
+		"price": 6,
+		"stats": {
+			"power": 0,
+			"stamina": 0,
+			"defence": 0,
+			"food": 1
+		},
+		"description": "Плод картофеля. Будет очень вкусным, если его приготовить",
+		"i_string": "potato fetus",
+		"stack": true
+	},
+
+	{
+		"id": 2,
+		"type": "seed",
+		"title": "Семена кукурузы",
+		"price": 6,
+		"stats": {
+			"power": 0,
+			"stamina": 0,
+			"defence": 0,
+			"food": 1
+		},
+		"description": "Кто не любит сажать кукурузу",
+		"i_string": "corn seed",
+		"stack": true
+	},
+
+	{
+		"id": 3,
+		"type": "seed",
+		"title": "Початок кукурузы",
+		"price": 6,
+		"stats": {
+			"power": 0,
+			"stamina": 0,
+			"defence": 0,
+			"food": 1
+		},
+		"description": "Початок кукурузы. Хоть попкорн, хоть масло, хоть варенная.",
+		"i_string": "corn fetus",
+		"stack": true
+	}
+]
